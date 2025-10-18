@@ -1,1 +1,2 @@
 # hari-repo-2
+EASY ASSESMENT ON GCLOUD
